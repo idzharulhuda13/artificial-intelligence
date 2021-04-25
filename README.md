@@ -1,2 +1,2 @@
 # artificial-intelligence
- Artificial Intelligence for virus panleukopenia decision making
+ Artificial Intelligence for virus panleukopenia
